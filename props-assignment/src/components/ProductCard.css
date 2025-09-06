@@ -1,0 +1,20 @@
+.container{
+    width: 17rem;
+    border: 1px solid black;
+    border-radius: 2rem;
+    background: cornsilk;
+    text-align: center;
+}
+.stock-label{
+  
+    width: 5rem;
+    margin: auto;
+    border-radius: 2rem;
+}
+
+.stock-label-bg-available{
+      background: darkseagreen;
+}
+.stock-label-bg-outStock{
+      background: tomato;
+}
